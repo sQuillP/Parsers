@@ -1,0 +1,7 @@
+S a A
+S LAMBDA
+B n S (
+B A S \
+B A S Q
+Q LAMBDA
+A n
